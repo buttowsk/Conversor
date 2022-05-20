@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-color: #250307;
+  background-size: 90vh;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 100 20 8px;
+}
+
+input {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+label {
+  color: #ffffff;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #feffd0;
+  font-size: 30px;
+}
+
+h3 {
+  color: #feffd0;
+  font-size: 30px;
+}
